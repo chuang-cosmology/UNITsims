@@ -1,4 +1,5 @@
 # UNITsims on NERSC
+![alt text](./00001_128_4096_fixedAmp.jpg)
 Website: http://www.unitsims.org
 Main paper: https://ui.adsabs.harvard.edu/abs/2019MNRAS.487...48C/abstract
 Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes@uam.es)
