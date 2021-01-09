@@ -7,6 +7,8 @@ Main paper: https://ui.adsabs.harvard.edu/abs/2019MNRAS.487...48C/abstract
 
 Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes@uam.es)
 
+---
+### Contents
 #### [Locations on NERSC HPSS](https://github.com/chuang-cosmology/UNITsims/blob/main/README.md#locations-on-hpss-ie-tape)
 * [Full particle snapshots](https://github.com/chuang-cosmology/UNITsims#full-particle-snapshots)
 * [Density field](https://github.com/chuang-cosmology/UNITsims#density-field-2-pairs-of-1gpch-high-resolution-boxes-with-128-redshifts-available)
@@ -16,9 +18,8 @@ Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes
 #### [How to access the files](https://github.com/chuang-cosmology/UNITsims#access-the-files)
 #### [How to read the files](https://github.com/chuang-cosmology/UNITsims#read-the-files) -- under construction
 #### [Index of redshifts](https://github.com/chuang-cosmology/UNITsims#redshift-vs-index)
-
+---
 ## Locations on NERSC HPSS (i.e. tape)
-
 ### Full particle snapshots
 #### 1Gpc/h (high resolution boxes; 1st pair have 64 redshifts available and 2nd pair have only 8 redshifts)
     /home/c/chuang/UNITSIMS/1Gpc_4096_001/
