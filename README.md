@@ -1,8 +1,21 @@
 # UNITsims on NERSC
 ![alt text](./00001_128_4096_fixedAmp.jpg)
+
 Website: http://www.unitsims.org
+
 Main paper: https://ui.adsabs.harvard.edu/abs/2019MNRAS.487...48C/abstract
+
 Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes@uam.es)
+
+#### [Locations on HPSS](https://github.com/chuang-cosmology/UNITsims/blob/main/README.md#locations-on-hpss-ie-tape)
+* [Full particle snapshots](https://github.com/chuang-cosmology/UNITsims#full-particle-snapshots)
+* [Density field](https://github.com/chuang-cosmology/UNITsims#density-field-2-pairs-of-1gpch-high-resolution-boxes-with-128-redshifts-available)
+* [0.5% of particles](https://github.com/chuang-cosmology/UNITsims#05-of-particles-2-pairs-of-1gpch-high-resolution-boxes-with-128-redshifts-available)
+* [Initial conditions](https://github.com/chuang-cosmology/UNITsims#initial-conditions)
+* [Halo catalogues](https://github.com/chuang-cosmology/UNITsims#halo-catalogues)
+#### [How to access the files](https://github.com/chuang-cosmology/UNITsims#access-the-files)
+#### [How to read the files](https://github.com/chuang-cosmology/UNITsims#read-the-files) -- under construction
+
 
 ## Locations on HPSS (i.e. tape)
 
@@ -40,7 +53,7 @@ Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes
     /home/c/chuang/UNITSIMS/IC/
 
 ### Halo catalogues 
-#### rockstar halos with PID
+#### Rockstar halos with PID
     /home/c/chuang/UNITSIMS/HALO_CATALOGS/Halo_with_PID/
 #### trees (and hlist)
     /home/c/chuang/UNITSIMS/HALO_CATALOGS/tree (and hlist)
@@ -84,4 +97,4 @@ $get *
 #### then unzip all the bz2 files (bzip2 -d filename.bz2)
 
 ## Read the files
-
+under construction
