@@ -236,30 +236,30 @@ under construction
          128     0.00000      1.0000
 
 ## Input cosmology and PK file
-Reion redshift       =   8.803
-Om_b h^2             =  0.022300
-Om_c h^2             =  0.118800
-Om_nu h^2            =  0.000640
-Om_Lambda            =  0.691111
-Om_K                 =  0.000000
-Om_m (1-Om_K-Om_L)   =  0.308889
-100 theta (CosmoMC)  =  1.040972
-N_eff (total)        =  3.046000
-1 nu, g= 1.0153 m_nu*c^2/k_B/T_nu0=    353.71 (m_nu=  0.060 eV)
-Reion opt depth      =  0.0660
-Age of universe/GYr  =  13.798
-zstar                =  1089.69
-r_s(zstar)/Mpc       =  144.81
-100*theta            =  1.041303
-DA(zstar)/Gpc        =  13.90705
-zdrag                =  1059.51
-r_s(zdrag)/Mpc       =  147.50
-k_D(zstar) Mpc       =  0.1406
-100*theta_D          =  0.160674
-z_EQ (if v_nu=1)     =  3371.85
-k_EQ Mpc (if v_nu=1) =  0.010291
-100*theta_EQ         =  0.818604
-100*theta_rs_EQ      =  0.452206
-tau_recomb/Mpc       =  281.22  tau_now/Mpc =  14188.2
-at z =  0.000 sigma8 (all matter) =  0.8147
-at z =  0.000 sigma8^2_vd/sigma8  =  0.4253
+    Reion redshift       =   8.803
+    Om_b h^2             =  0.022300
+    Om_c h^2             =  0.118800
+    Om_nu h^2            =  0.000640
+    Om_Lambda            =  0.691111
+    Om_K                 =  0.000000
+    Om_m (1-Om_K-Om_L)   =  0.308889
+    100 theta (CosmoMC)  =  1.040972
+    N_eff (total)        =  3.046000
+    1 nu, g= 1.0153 m_nu*c^2/k_B/T_nu0=    353.71 (m_nu=  0.060 eV)
+    Reion opt depth      =  0.0660
+    Age of universe/GYr  =  13.798
+    zstar                =  1089.69
+    r_s(zstar)/Mpc       =  144.81
+    100*theta            =  1.041303
+    DA(zstar)/Gpc        =  13.90705
+    zdrag                =  1059.51
+    r_s(zdrag)/Mpc       =  147.50
+    k_D(zstar) Mpc       =  0.1406
+    100*theta_D          =  0.160674
+    z_EQ (if v_nu=1)     =  3371.85
+    k_EQ Mpc (if v_nu=1) =  0.010291
+    100*theta_EQ         =  0.818604
+    100*theta_rs_EQ      =  0.452206
+    tau_recomb/Mpc       =  281.22  tau_now/Mpc =  14188.2
+    at z =  0.000 sigma8 (all matter) =  0.8147
+    at z =  0.000 sigma8^2_vd/sigma8  =  0.4253
