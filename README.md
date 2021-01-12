@@ -236,6 +236,9 @@ under construction
          128     0.00000      1.0000
 
 ## Input cosmology and PK file
+[PK file](https://github.com/chuang-cosmology/UNITsims/blob/main/Planck2015Table4LastColumn_matterpower.dat)
+
+
     Reion redshift       =   8.803
     Om_b h^2             =  0.022300
     Om_c h^2             =  0.118800
@@ -245,7 +248,8 @@ under construction
     Om_m (1-Om_K-Om_L)   =  0.308889
     100 theta (CosmoMC)  =  1.040972
     N_eff (total)        =  3.046000
-    1 nu, g= 1.0153 m_nu*c^2/k_B/T_nu0=    353.71 (m_nu=  0.060 eV)
+    1 nu, g              = 1.0153 
+    m_nu*c^2/k_B/T_nu0.  =    353.71 (m_nu=  0.060 eV)
     Reion opt depth      =  0.0660
     Age of universe/GYr  =  13.798
     zstar                =  1089.69
@@ -260,6 +264,7 @@ under construction
     k_EQ Mpc (if v_nu=1) =  0.010291
     100*theta_EQ         =  0.818604
     100*theta_rs_EQ      =  0.452206
-    tau_recomb/Mpc       =  281.22  tau_now/Mpc =  14188.2
+    tau_recomb/Mpc       =  281.22  
+    tau_now/Mpc          =  14188.2
     at z =  0.000 sigma8 (all matter) =  0.8147
     at z =  0.000 sigma8^2_vd/sigma8  =  0.4253
