@@ -15,11 +15,12 @@ Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes
 * [0.5% of particles](https://github.com/chuang-cosmology/UNITsims#05-of-particles-2-pairs-of-1gpch-high-resolution-boxes-with-128-redshifts-available)
 * [Initial conditions](https://github.com/chuang-cosmology/UNITsims#initial-conditions)
 * [Halo catalogues](https://github.com/chuang-cosmology/UNITsims#halo-catalogues)
+* [FastPM FoF halo catalogs](https://github.com/chuang-cosmology/UNITsims/blob/main/README.md#fastpm-fof-halo-catalogues)
 #### [How to access the files](https://github.com/chuang-cosmology/UNITsims#access-the-files)
 #### [How to read the files](https://github.com/chuang-cosmology/UNITsims#read-the-files) -- under construction
 #### [Index of redshifts](https://github.com/chuang-cosmology/UNITsims#redshift-vs-index)
 #### [Input cosmology and PK file](https://github.com/chuang-cosmology/UNITsims#input-cosmology-and-pk-file-1)
-#### [FastPM FoF halo catalogs](https://github.com/chuang-cosmology/UNITsims/blob/main/README.md#fastpm-fof-halo-catalogues)
+
 ---
 ## Locations on NERSC HPSS (i.e. tape)
 ### Full particle snapshots
