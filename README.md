@@ -236,8 +236,8 @@ under construction
          128     0.00000      1.0000
 
 ## Input cosmology and PK file
-[PK file](https://github.com/chuang-cosmology/UNITsims/blob/main/Planck2015Table4LastColumn_matterpower.dat)
-
+[PK file](https://github.com/chuang-cosmology/UNITsims/blob/main/Planck2015Table4LastColumn_matterpower.dat) and
+[CAMB ini file](https://github.com/chuang-cosmology/UNITsims/blob/main/params_Planck15Table4LastColumn.ini)
 
     Reion redshift       =   8.803
     Om_b h^2             =  0.022300
