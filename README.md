@@ -60,6 +60,16 @@ Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes
 #### trees (and hlist)
     /home/c/chuang/UNITSIMS/HALO_CATALOGS/tree (and hlist)
 
+### FastPM FoF halo catalogues
+#### 1Gpc/h boxes with grid size 1024^3
+Same cosmology as UNIT boxes; 100 pairs of fixed-amplitude boxes and 100 pairs of normal boxes at z=0, 1, 2
+
+     /home/c/chuang/UNITSIMS/FastPM/UNIT-FastPM-1Gpc/
+#### 250Mpc/h boxes with grid size 1024^3
+Same cosmology as UNIT boxes; 100 pairs of fixed-amplitude boxes and 100 pairs of normal boxes at z=0, 1, 2
+
+     /home/c/chuang/UNITSIMS/FastPM/UNIT-FastPM-250Mpc/
+    
 ## Access the files
 ### Look up the folders/files on HPSS
     $hsi
@@ -96,6 +106,13 @@ P.S. 3Gpc box has 6 tar files instead of 4 files
     $hsi
     $cd /home/c/chuang/UNITSIMS/HALO_CATALOGS/Halo_with_PID/1Gpc_2048_001
     $get *
+#### then, unzip the bz2 files (bzip2 -d filename.bz2)
+
+### FoF Halo catalogs
+    $cd path_to_your_scratch_folder
+    $hsi
+    $cd /home/c/chuang/UNITSIMS/FastPM/UNIT-FastPM-1Gpc/
+    $get -R *
 #### then, unzip the bz2 files (bzip2 -d filename.bz2)
 
 ## Read the files
