@@ -19,6 +19,7 @@ Contacts: Chia-Hsun Chuang (chuangch@stanford.edu), Gustavo Yepes (gustavo.yepes
 #### [How to read the files](https://github.com/chuang-cosmology/UNITsims#read-the-files) -- under construction
 #### [Index of redshifts](https://github.com/chuang-cosmology/UNITsims#redshift-vs-index)
 #### [Input cosmology and PK file](https://github.com/chuang-cosmology/UNITsims#input-cosmology-and-pk-file-1)
+#### [FastPM FoF halo catalogs](https://github.com/chuang-cosmology/UNITsims/blob/main/README.md#fastpm-fof-halo-catalogues)
 ---
 ## Locations on NERSC HPSS (i.e. tape)
 ### Full particle snapshots
