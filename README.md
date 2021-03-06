@@ -118,7 +118,9 @@ P.S. 3Gpc box has 6 tar files instead of 4 files
 #### then, unzip the bz2 files (bzip2 -d filename.bz2)
 
 ## Read the files
-under construction
+under construction<BR>
+To read the HEALPix density maps, you can simply use healpy: <BR>
+```x=hp.read_map(filename)```
 
 
 ## Redshift vs index
