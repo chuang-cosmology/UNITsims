@@ -118,8 +118,12 @@ P.S. 3Gpc box has 6 tar files instead of 4 files
 #### then, unzip the bz2 files (bzip2 -d filename.bz2)
 
 ## Read the files
-under construction
-
+under construction<BR>
+The projected density maps are in HEALPix format.<BR>
+These can be read in python simply using healpy:
+```
+x = hp.read_map(filename)
+```
 
 ## Redshift vs index
            n           z           a
